@@ -1,0 +1,51 @@
+baseURL = 'http://www.ma-k-e.com/'
+languageCode = 'en-dk'
+title = 'Maximilian K. Egger'
+theme = 'hugo-initio'
+
+[params]
+    name = "Maximilian K. Egger"
+    description = "Computer Science PhD student"
+    email = "maximilian.egger@cs.au.dk"
+    phone = "-"
+    address = "-"
+    year = 2023
+    avatar = "images/me2.png"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg_mountain.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "December 23, 2023"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = true
+    showClients = true
+
+    showFooterContact = false
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/eggermax/"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+
+[[params.social]]
+	title = "github"
+	url = "https://github.com/CalculassTakeo/"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
