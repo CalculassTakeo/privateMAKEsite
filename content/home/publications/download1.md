@@ -1,6 +1,6 @@
 +++
 title = "ReliK"
-file = "http://www.gettemplate.com/downloads/initio.zip"
+file = "papers/ReliK.pdf"
 weight = 1
 +++
 
