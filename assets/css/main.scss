@@ -9,6 +9,8 @@
  */
 
 @import 
+    "vendor/breakpoint/breakpoint",
+
     "themes",
     "theme/{{ site.site_theme | default: 'default' }}",
 
