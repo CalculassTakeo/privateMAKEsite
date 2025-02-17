@@ -27,8 +27,10 @@ Work experience
 *  Covid Tester - Austrian Economic Chamber <br> Mar 2021 - Jun 2021 <br> Vienna, Austria
 
 * Teaching Assistant - University of Vienna <br> Apr 2020 - Feb 2022 <br> Vienna, Austria
-  * Cloud Computing
-  * Parallel Computing
+  * Winter 2020, Parallel Computing
+  * Summer 2021, Parallel Computing
+  * Winter 2021, Parallel Computing
+  * Winter 2021, Cloud Computing
 
 * EMT - Arbeiter Samariterbund <br> Sep 2015 - May 2016 <br> Vienna, Austria
 
