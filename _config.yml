@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Maximilian K. Egger"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a PhD student in Computer Science at Aarhus University, exploring knowledge graphs, data mining, and graph databases. <br>If it involves graphs or vast amounts of data, you have my attention!"
+  bio              : "I'm a PhD student in Computer Science at Aarhus University, exploring Knowledge Graphs, Data Mining, and Data Quality. <br>If it involves graphs or vast amounts of data, you have my attention!"
   location         : "Denmark"
   employer         : "Aarhus University"
   uri              : # URL
