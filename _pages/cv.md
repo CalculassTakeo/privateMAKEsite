@@ -32,16 +32,14 @@ Work experience
   * Winter 2021, Parallel Computing
   * Winter 2021, Cloud Computing
 
-* EMT - Arbeiter Samariterbund <br> Sep 2015 - May 2016 <br> Vienna, Austria
+* Emergency Medical Technician - Arbeiter Samariterbund <br> Sep 2015 - May 2021 <br> Vienna, Austria
 
 Other experience
 ======
 
-* Scouts <br> 2009 - today <br> Vienna, Austria / Aarhus, Denmark
+* Organizer - [IT-Camp for piger](https://itcamp.dk/) <br> 2024 <br> Aarhus, Denmark <br> A project that invites high school girls for 3 days to Aarhus University in order to show them what a study in computer science would entail.
 
-* Organizer - IT-Camp for piger <br> 2024 <br> Aarhus, Denmark
-
-* Volunteer EMT - Arbeiter Samariterbund <br> Oct 2017 - Aug 2021 <br> Vienna, Austria
+* Member/Leader - Scouts <br> 2009 - today <br> Vienna, Austria / Aarhus, Denmark
 
 Skills
 ======
